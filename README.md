@@ -1,5 +1,3 @@
-
-https://github.com/brixt01/hangman/assets/109489475/14469b04-d8bf-4a11-8af4-2619da294ac8
 # hangman
 A simple hangman game, written in Python
 
